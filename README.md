@@ -1,6 +1,6 @@
 How to use this free cloud pc! (shout out hamza editz for this cloud pc)
 
-Step 1.
+Step 1
 
 You need to fork this repository so you need an account.
 
